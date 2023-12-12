@@ -7,6 +7,7 @@
   width: 80%;
   height: auto;
   margin: auto;
+  background-color: whitesmoke;
 }
 .head-img{
   width: 100%;
@@ -103,12 +104,12 @@ line-height: normal;
   margin-left: 10px;
 }
 .brief_intro {
-  margin-top: 20px;
+  margin-top: 30px;
   color: #000;
 
 /* pt serif */
 font-family: PT Serif;
-font-size: 18px;
+font-size: 21px;
 font-style: normal;
 font-weight: 400;
 line-height: 27px; /* 168.75% */
@@ -122,7 +123,7 @@ color: #000;
 
 /* pt serif */
 font-family: PT Serif;
-font-size: 18px;
+font-size: 22px;
 font-style: normal;
 font-weight: 400;
 line-height: 27px; /* 168.75% */
@@ -130,7 +131,7 @@ line-height: 27px; /* 168.75% */
 .heading{
   color: #000;
 font-family: Gilroy;
-font-size: 25px;
+font-size: 27px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
@@ -140,7 +141,7 @@ line-height: normal;
 
 /* pt serif */
 font-family: PT Serif;
-font-size: 16px;
+font-size: 20px;
 font-style: normal;
 font-weight: 400;
 line-height: 27px; /* 168.75% */
