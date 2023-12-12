@@ -149,3 +149,8 @@ line-height: 27px; /* 168.75% */
 .part{
 margin-bottom: 15px;
 }
+
+.dialog{
+  margin-left: 50px;
+  margin-right: 80px;
+}
