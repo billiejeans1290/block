@@ -108,7 +108,7 @@ line-height: normal;
   color: #000;
 
 /* pt serif */
-font-family: PT Serif;
+font-family: Segoe UI;
 font-size: 21px;
 font-style: normal;
 font-weight: 400;
@@ -124,7 +124,7 @@ margin-bottom: 30px;
 color: #000;
 
 /* pt serif */
-font-family: PT Serif;
+font-family: Segoe UI;
 font-size: 22px;
 font-style: normal;
 font-weight: 400;
@@ -142,7 +142,7 @@ line-height: normal;
   color: #000;
 
 /* pt serif */
-font-family: PT Serif;
+font-family: Segoe UI;
 font-size: 20px;
 font-style: normal;
 font-weight: 400;
@@ -156,4 +156,7 @@ margin-bottom: 15px;
 .dialog{
   margin-left: 50px;
   margin-right: 80px;
+}
+.main{
+  margin-top: 50px;
 }
