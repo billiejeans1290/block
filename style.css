@@ -117,8 +117,10 @@ line-height: 27px; /* 168.75% */
 .intro-para2{
 display: flex;
 flex-wrap: wrap;
-border-top: 15px;
-margin: 30px;
+border-top: 10px;
+margin-left: 30px;
+margin-top: 15px;
+margin-bottom: 30px;
 color: #000;
 
 /* pt serif */
